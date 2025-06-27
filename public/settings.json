@@ -1,0 +1,276 @@
+{
+  "theme": "light",
+  "recordsPerPage": 60,
+  "user": {
+    "name": "shadcn",
+    "email": "m@example.com",
+    "avatar": "/avatars/shadcn.jpg"
+  },
+  "teams": [
+    {
+      "name": "Acme Inc",
+      "logo": "GalleryVerticalEnd",
+      "currentComponent": "",
+      "plan": "Enterprise"
+    },
+    {
+      "name": "Acme Corp.",
+      "logo": "AudioWaveform",
+      "currentComponent": "",
+      "plan": "Startup"
+    },
+    {
+      "name": "Evil Corp.",
+      "logo": "Command",
+      "currentComponent": "",
+      "plan": "Free"
+    }
+  ],
+  "sidemenu": {
+    "main": [
+      {
+        "title": "Dashboard",
+        "icon": "LayoutDashboard",
+        "url": ""
+      },
+         {
+        "title": "Client",
+        "icon": "LayoutDashboard",
+        "url": "client"
+      },
+      {
+        "title": "Products",
+        "icon": "Bot",
+        "url": "categories",
+        "items": [
+          {
+            "title": "Categories",
+            "currentComponent": "categories",
+            "url": ""
+          }
+        ]
+      },
+      {
+        "title": "Invoice",
+        "icon": "LayoutDashboard",
+        "url": "invoice",
+        "items": [
+          {
+            "title": "Purchase",
+            "currentComponent": "purchase",
+            "url": ""
+          },
+            {
+            "title": "Sales",
+            "currentComponent": "sales",
+            "url": ""
+          },
+           {
+            "title": "Receipt",
+            "currentComponent": "receipt",
+            "url": ""
+          },
+            {
+            "title": "Payment",
+            "currentComponent": "payment",
+            "url": ""
+          }
+        ]
+      },
+      {
+        "title": "Payments",
+        "icon": "Bot",
+        "url": "categories",
+        "items": [
+          {
+            "title": "Bank",
+            "currentComponent": "categories",
+            "url": "bank"
+          },
+            {
+            "title": "Cash",
+            "currentComponent": "categories",
+            "url": "cash"
+          }
+        ]
+      },
+       {
+        "title": "Quotes",
+        "icon": "LayoutDashboard",
+        "url": "invoice"
+      },
+       {
+        "title": "Credits",
+        "icon": "LayoutDashboard",
+        "url": "invoice"
+      },
+  
+       {
+        "title": "Tasks",
+        "icon": "LayoutDashboard",
+        "url": "tasks"
+      },
+       {
+        "title": "Vendors",
+        "icon": "LayoutDashboard",
+        "url": "vendors"
+      },
+       {
+        "title": "Expenses",
+        "icon": "LayoutDashboard",
+        "url": "expenses"
+      },
+       {
+        "title": "Reports",
+        "icon": "LayoutDashboard",
+        "url": "reports"
+      },
+      {
+        "title": "Settings",
+        "icon": "Settings",
+        "url": "#",
+        "items": [
+          {
+            "title": "General",
+            "currentComponent": "settings",
+            "url": "settings"
+          },
+          {
+            "title": "Team",
+            "currentComponent": "",
+            "url": "#"
+          },
+          {
+            "title": "Billing",
+            "currentComponent": "",
+            "url": "#"
+          },
+          {
+            "title": "Limits",
+            "currentComponent": "",
+            "url": "#"
+          }
+        ]
+      },
+      {
+        "title": "Components",
+        "icon": "Component",
+        "url": "#",
+        "items": [
+          {
+            "title": "Accordion",
+            "currentComponent": "accordion",
+            "url": "accordion"
+          },
+          {
+            "title": "Alert",
+            "currentComponent": "alert",
+            "url": "alert"
+          },
+          {
+            "title": "Button",
+            "currentComponent": "button",
+            "url": "button"
+          },
+          {
+            "title": "Calendar",
+            "currentComponent": "calendar",
+            "url": "calendar"
+          },
+          {
+            "title": "Card",
+            "currentComponent": "card",
+            "url": "card"
+          },
+          {
+            "title": "Carousel",
+            "currentComponent": "carousel",
+            "url": "carousel"
+          },
+          {
+            "title": "Chart",
+            "currentComponent": "chart",
+            "url": "chart"
+          },
+          {
+            "title": "Checkbox",
+            "currentComponent": "checkbox",
+            "url": "checkbox"
+          },
+          {
+            "title": "Combobox",
+            "currentComponent": "combobox",
+            "url": "combobox"
+          },
+          {
+            "title": "Drawer",
+            "currentComponent": "drawer",
+            "url": "drawer"
+          },
+          {
+            "title": "File Input",
+            "currentComponent": "fileinput",
+            "url": "fileinput"
+          },
+          {
+            "title": "Table",
+            "currentComponent": "table",
+            "url": "table"
+          },
+          {
+            "title": "Text Input",
+            "currentComponent": "textinput",
+            "url": "textinput"
+          },
+          {
+            "title": "TimeLine",
+            "currentComponent": "timeline",
+            "url": "timeline"
+          },
+          {
+            "title": "TextArea",
+            "currentComponent": "textarea",
+            "url": "textarea"
+          },
+          {
+            "title": "Text Editor",
+            "currentComponent": "texteditor",
+            "url": "texteditor"
+          },
+          {
+            "title": "Tool Tip",
+            "currentComponent": "tooltip",
+            "url": "tooltip"
+          },
+          {
+            "title": "Notification",
+            "currentComponent": "notification",
+            "url": "notification"
+          },
+          {
+            "title": "Password",
+            "currentComponent": "password",
+            "url": "password"
+          },
+          {
+            "title": "Pin Input",
+            "currentComponent": "pininput",
+            "url": "pininput"
+          },
+          {
+            "title": "RadioGroup",
+            "currentComponent": "radiogroup",
+            "url": "radiogroup"
+          },
+          {
+            "title": "Star Rating",
+            "currentComponent": "starrating",
+            "url": "starrating"
+          }
+        ]
+      }
+    ],
+    "help": {},
+    "document": {}
+  }
+}
